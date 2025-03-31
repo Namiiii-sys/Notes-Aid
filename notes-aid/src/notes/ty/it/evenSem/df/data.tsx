@@ -8,10 +8,10 @@ const df = {
   modules: {
     1: {
       notesLink: [
-        {
-          title: "Notes 1",
-          url: "https://firebasestorage.googleapis.com/v0/b/acm-bruh.appspot.com/o/AC%20Module%201.pdf?alt=media&token=42db56c3-72f1-4758-acb8-8f3ecab36ff3",
-        },
+        // {
+        //   title: "Notes 1",
+        //   url: "https://firebasestorage.googleapis.com/v0/b/acm-bruh.appspot.com/o/AC%20Module%201.pdf?alt=media&token=42db56c3-72f1-4758-acb8-8f3ecab36ff3",
+        // },
       ],
       topics: [
         {
@@ -38,10 +38,10 @@ const df = {
     },
     2: {
       notesLink: [
-        {
-          title: "Notes 1",
-          url: "https://firebasestorage.googleapis.com/v0/b/acm-bruh.appspot.com/o/AC%20Module%202.pdf?alt=media&token=e83fe56e-c1e6-4b86-935e-ff49986cad74",
-        },
+        // {
+        //   title: "Notes 1",
+        //   url: "https://firebasestorage.googleapis.com/v0/b/acm-bruh.appspot.com/o/AC%20Module%202.pdf?alt=media&token=e83fe56e-c1e6-4b86-935e-ff49986cad74",
+        // },
       ],
       topics: [
         {

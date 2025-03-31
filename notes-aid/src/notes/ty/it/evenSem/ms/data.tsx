@@ -10,7 +10,11 @@ const ms = {
       notesLink: [
         {
           title: "Notes 1",
-          url: "https://firebasestorage.googleapis.com/v0/b/acm-bruh.appspot.com/o/AC%20Module%201.pdf?alt=media&token=42db56c3-72f1-4758-acb8-8f3ecab36ff3",
+          url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/aarush_s_somaiya_edu/EfdK4cplKBxBk1Tvt-iX8k0BAckEkquJmCD0aO_v1sXTZQ?e=8OcZT9",
+        },
+        {
+          title: "Notes 2",
+          url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/aarush_s_somaiya_edu/EcY1Fuh600NAvc5m9BPF2wEBkNV3ptfqpXYT7hWXHq7YXg?e=L2dc5o",
         },
       ],
       topics: [
@@ -41,7 +45,7 @@ const ms = {
       notesLink: [
         {
           title: "Notes 1",
-          url: "https://firebasestorage.googleapis.com/v0/b/acm-bruh.appspot.com/o/AC%20Module%202.pdf?alt=media&token=e83fe56e-c1e6-4b86-935e-ff49986cad74",
+          url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/aarush_s_somaiya_edu/EfZd9u7lo4dIhirjjlytoaUBl5_MH09XzEtNq9E0sf_2ew?e=VfmAwa",
         },
       ],
       topics: [
