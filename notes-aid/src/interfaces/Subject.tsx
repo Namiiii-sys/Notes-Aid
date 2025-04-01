@@ -13,7 +13,7 @@ interface Note {
 
 interface NotesLink{
   title: string;
-  url: string;
+  url?: string;
 }
 
 interface Module {
