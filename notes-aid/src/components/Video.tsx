@@ -9,7 +9,7 @@ interface VideoProps {
   toggleVideo: (index: number) => void;
   openVideoIndex: number | null;
   index: number;
-  video: { title: string; url: string };
+  video: { title: string; url?: string };
   videoRefs: RefObject<(HTMLIFrameElement | null)[]>;
   videoKey: string;
   updateVideoProgress: (

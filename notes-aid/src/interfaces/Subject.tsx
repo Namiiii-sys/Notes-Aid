@@ -2,7 +2,7 @@ import { LucideIcon } from 'lucide-react';
 
 interface Video {
   title: string;
-  url: string;
+  url?: string;
   completed?: boolean;
 }
 
@@ -13,7 +13,7 @@ interface Note {
 
 interface NotesLink{
   title: string;
-  url?: string;
+  url: string;
 }
 
 interface Module {
