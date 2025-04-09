@@ -383,6 +383,28 @@ const is = {
         },
       ],
     },
+    5:{
+      notesLink:[
+        
+      ],
+      topics:[
+        {
+          title:"5.1 Protecting Programs and Data- Copyrights, Patents, Trade Secrets, Special Cases",
+          description:"Basic concepts and importance",
+          videos:[
+
+          ]
+        },
+        {
+          title:"5.2 Ethical Issues in Computer Security - Differences Between the Law and Ethics, Studying Ethics, Ethical Reasoning",
+          description:"Basic concepts and importance",
+          videos:[
+
+          ]
+        }
+
+      ]
+    }
   },
 };
 

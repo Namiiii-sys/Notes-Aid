@@ -435,6 +435,34 @@ const ai = {
         },
       ],
     },
+    5:{
+      notesLink:[
+
+      ],
+      topics:[
+        {
+          title: "5.1 The planning problem, Planning Vs Searching, STRIPS and ADL, Planning with state space search, Partial order planning, Hierarchical planning, Contingent Planning",
+          description: "Theoretical based concepts",
+          videos: [
+            
+          ],
+        },
+        {
+          title: "5.2 Learning: Forms of Learning, Inductive Learning, Learning Decision Tree, applications of learning",
+          description: "Theoretical based concepts",
+          videos: [
+           
+          ],
+        },
+        {
+          title: "5.3 Applications of AI and Current State of research in AI: Natural Language Processing(NLP):Language models, text classification, information retrieval, information extraction. Expert Systems: Components of expert systems, ES vs Traditional System. Characteristics of expert systems, roles in ES implementation, ES implementation process, applications, advantages and limitations of ES Live face de-identification in Video, ReAgent Serving Platform(RSP), AI habitat, Robust visual question answering",
+          description: "Theoretical based concepts",
+          videos: [
+           
+          ],
+        }
+      ]
+    }
   },
 };
 
