@@ -11,6 +11,10 @@ const ai = {
             title: "Module 1 PPT",
             url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/minav_karia_somaiya_edu/Ea5TxRERSnNMk8dJziSwhr4B59EW4oP51sNa7uOmTKA1ZA?e=JueEIi",
           },
+          {
+            title:"Yashank's Notes",
+            url:"https://somaiya0-my.sharepoint.com/:b:/g/personal/minav_karia_somaiya_edu/EWUcH6cYJRhHhRMEf4DxNp4Bny3IKv6koHukQ1sBwtKp6A?e=vVay8W"
+          }
       ],
       topics: [
         {
@@ -79,6 +83,10 @@ const ai = {
             title: "Module 2 PPT",
             url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/minav_karia_somaiya_edu/EVTpki7L6b1Nsq50m8uOL6EB-8Td3LndwzkLk-VMQCbTbg?e=CYBbWp",
           },
+          {
+            title:"Yashank's Notes",
+            url:"https://somaiya0-my.sharepoint.com/:b:/g/personal/minav_karia_somaiya_edu/ER2W8O5TunFGqcQOd6QW6s4Bc0FPnNCybXYwQ5FYs30hbw?e=ONONQC"
+          }
       ],
       topics: [
         {
@@ -297,6 +305,10 @@ const ai = {
             title: "Module 4 PPT",
             url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/minav_karia_somaiya_edu/Ea0c7C72Nv9DhETaPxfCfZgB_JiRc_fBV3FeMcCWRRMuqw?e=DoEypQ",
           },
+          {
+            title:"Yashank's Notes",
+            url:"https://somaiya0-my.sharepoint.com/:b:/g/personal/minav_karia_somaiya_edu/ERglU4KA1elBgwuv9UdpBukB-Ax7SakY2fUFwPdBzaRzLw?e=PsKcaZ"
+          }
       ],
       topics: [
         {
