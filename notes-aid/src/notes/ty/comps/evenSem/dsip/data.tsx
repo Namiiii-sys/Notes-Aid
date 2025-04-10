@@ -329,16 +329,28 @@ const dsip = {
               url: "https://www.youtube.com/embed/YvTVI0dboiM?si=vgPnYnxdkOJLN25L",
             },
             {
-              title: "Discrete Fourier Transform (DFT)",
+              title: "What is Discrete Fourier Transform (DFT) and it's properties",
               url: "https://www.youtube.com/embed/oGwIPM7aLfg?si=qOJg98EbNVGbdFBv",
             },
             {
-              title: "Discrete Fourier Transform (DFT) - Solved Numerical",
+              title: "Basic of DFT and IDFT and examples",
+              url: "https://www.youtube.com/embed/2oEt5lbsyhM?si=sdlWMWofsVOXr7VE",
+            },
+            {
+              title: "Discrete Fourier Transform (1D DFT) - Solved Numerical",
               url: "https://www.youtube.com/embed/qDDziKkr6FY?si=ALRefWF_y_pIsTwl",
+            },
+            {
+              title:"Discrete Fourier Transform (2D DFT) - Solved Numerical (Watch on Youtube) ",
+              url:"https://www.youtube.com/embed/frYAFuHm5AU?si=FN_JHYiMxc4JTCi8"
             },
             {
               title: "Fast Fourier Transform (FFT)",
               url: "https://www.youtube.com/embed/BXghmsH-mKY?si=8Ob1NY_00i_p4nq_",
+            },
+            {
+              title:"Twiddle Factor",
+              url:"https://www.youtube.com/embed/rDF_v4Kp1xE?si=HZ9JQvooPNV9fmwB"
             },
             {
               title: "4-Point DIT-FFT",
