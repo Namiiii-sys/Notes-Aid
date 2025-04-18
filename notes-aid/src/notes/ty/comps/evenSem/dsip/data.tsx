@@ -375,16 +375,24 @@ const dsip = {
           description: "Numerical based concepts- Important for Exam ⭐",
           videos: [
             {
-              title: "Discrete Cosine Transform (DCT)",
-              url: "https://www.youtube.com/embed/mK9Avw7jX6E?si=OdjBT-9OxqdiOusj",
+              title: "Discrete Cosine Transform (DCT) and Haar Transform",
+              url: "https://www.youtube.com/embed/lQnUex31f5Q?si=IWSLP0cnfBBI5s3T",
             },
             {
-              title: "Walsh Transform",
-              url: "https://www.youtube.com/embed/n0zYz8eQtU4?si=K1cID_CuK-cfM09q",
+              title:"Discrete Cosine Transform (DCT) - Concept and Properties",
+              url:"https://www.youtube.com/embed/j8LJpQMxmZQ?si=4qiocGjJ5gbl-TaG"
             },
             {
-              title: "Hadamard Transform",
-              url: "https://www.youtube.com/embed/avFvEsw1fgs?si=EPAZ4lFZYznoRxZR",
+              title:" Discrete Cosine Transform (DCT) 1D and 2D - Solved Numerical",
+              url:"https://www.youtube.com/embed/RYqQT4W85t4?si=4A0MpWg-W1C9bYbl"
+            },
+            {
+              title:"Hadamard Transform and Walsh Transform",
+              url:"https://www.youtube.com/embed/IDj2l9s_pAs?si=a6UxCv1aOmk-fJWZ"
+            },
+            {
+              title: "Walsh Transform- Part 2",
+              url: "https://www.youtube.com/embed/6R0KnhD0pSQ?si=CsGW3JFbv_46X092",
             },
             {
               title: "Haar Transform",

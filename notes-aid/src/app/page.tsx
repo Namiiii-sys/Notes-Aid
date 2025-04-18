@@ -19,7 +19,7 @@ const branches = [
   { value: "extc", label: "Electronics & Telecommunication Engineering" },
   { value: "rai", label: "Robotics & Automation Engineering" },
   { value: "cce", label: "Computer and Communication Engineering" },
-  { value: "csbs", label: "Computer Science and Business Studies" },
+  { value: "csbs", label: "Computer Science and Business Systems" },
   { value: "aids", label: "Artificial Intelligence and Data Science" },
 ];
 
