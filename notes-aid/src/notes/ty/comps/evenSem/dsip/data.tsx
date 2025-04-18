@@ -371,7 +371,7 @@ const dsip = {
           ],
         },
         {
-          title: "3.2 Image Transformation - DCT, Walsh, Hadamard, Haar, PCA",
+          title: "3.2 Image Transformation - DCT, Walsh, Hadamard, Haar, PCA, Intro to Wavelet Transform",
           description: "Numerical based concepts- Important for Exam ⭐",
           videos: [
             {
@@ -395,23 +395,31 @@ const dsip = {
               url: "https://www.youtube.com/embed/6R0KnhD0pSQ?si=CsGW3JFbv_46X092",
             },
             {
-              title: "Haar Transform",
-              url: "https://www.youtube.com/embed/s02VrcLObvU?si=615BzJM2p90_N9WP",
+              title: "Principal Component Analysis (PCA) (Very less chances of coming in exam) ",
+              url: "https://www.youtube.com/embed/sjCCdY3ySd0?si=1GnNhADQAUR97oc7",
             },
             {
-              title: "Principal Component Analysis (PCA) / Karhunen-Loeve Transform",
-              url: "https://www.youtube.com/embed/sjCCdY3ySd0?si=1GnNhADQAUR97oc7",
+              title: "Introduction to Wavelet Transform (from 6:02)",
+              url: "https://www.youtube.com/embed/s02VrcLObvU?si=iF8Z4v_v0OEeFbhI&amp;start=362",
             },
           ],
         },
         {
-          title: "3.3 Frequency Domain Filtering - Low and High Pass",
-          description: "Basic theoretical concepts",
+          title: "3.3 Frequency Domain Filtering - Low and High Pass (Ideal, Butterworth, Gaussian) & Homomorphic filter",
+          description: "Important theoretical concepts - Can be asked in exam as short notes",
           videos: [
             {
-              title: "Frequency Domain Filtering",
+              title: "Frequency Domain Filtering- Low Pass and High Pass",
               url: "https://www.youtube.com/embed/guPIbJIZ7QI?si=iQt0-qo_z-OXSyn9",
             },
+            {
+              title:"Homomorphic Filter",
+              url:"https://www.youtube.com/embed/NIM78sVsEVg?si=cbmQKkfiRe24sthH"
+            },
+            {
+              title:"Homomorphic Filter - Part 2",
+              url:"https://www.youtube.com/embed/c9P0Xsmcuxc?si=qG_XZwSNm3uCbFIN"
+            }
           ],
         },
       ],
