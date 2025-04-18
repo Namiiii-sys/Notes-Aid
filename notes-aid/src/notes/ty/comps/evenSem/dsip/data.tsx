@@ -433,9 +433,44 @@ const dsip = {
       topics:[
         {
           title: "4.1 Image segmentation based on discontinuities: point, line and edge detection (Laplacian, Cany), edge linking, Thresholding (Global, local, optimum), Region based segmentation, edge based segmentation: Hough Transform.",
-          description: "Basic theoretical concepts",
+          description: "Theoretical concepts - Short notes can be asked in exam ⭐",
           videos: [
-           
+           {
+            title:"Introduction to Image Segmentation",
+            url:"https://www.youtube.com/embed/bsneXRECPWI?si=_D4XlapdxtznZROS"
+           },
+           {
+            title:"Detection of Discontinuities: Point, Line - Part 1",
+            url:"https://www.youtube.com/embed/4BO4NvFk5Po?si=TELywmvqtJFos_sY"
+           },
+           {
+            title:"Detection of Discontinuities: Point, Line - Part 2",
+            url:"https://www.youtube.com/embed/2XonhnHLxCM?si=w0naVlYk6HLtzWKR"
+           },
+           {
+            title:"Detection of Discontinuities: Point, Line, Edge",
+            url:"https://www.youtube.com/embed/i3ANIRt9qRg?si=3A3Keyc7Wldg5PVK"
+           },
+           {
+            title:"First Order Edge Detection Gradient Operators: Sobel, Prewitt, Roberts (watch till 16:20)",
+            url:"https://www.youtube.com/embed/3JEazuT7_T4?si=rTptzoH3HB58nZmw"
+           },
+           {
+            title:"Second Order Derivative Filters in Image Segmentation: Laplacian , Laplacian of Gaussian (LoG), Canny Edge Detector",
+            url:"https://www.youtube.com/embed/8s1nWVWrhz4?si=Vo1ycT1JFtHuy9C8"
+           },
+           {
+            title:"Hough Transform Explained with Example",
+            url:"https://www.youtube.com/embed/t1GXMvK9m84?si=_neCFOseyjKz3Pc1"
+           },
+           {
+            title:"Hough Transform Example - Part 2",
+            url:"https://www.youtube.com/embed/LEJc02pIay0?si=3-bDQvQTwh9UCF9Y"
+           },
+           {
+            title:"Hough Transform Example - Part 3",
+            url:"https://www.youtube.com/embed/fiDDn_F9U74?si=q95VgLRIrBcFA2DX"
+           }
           ],
         },
         {
