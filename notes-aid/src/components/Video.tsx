@@ -104,7 +104,7 @@ function Video({
           </div>
         )}
         {openVideoIndex === index && !video.url && (
-          <div className="p-2 text-sm text-gray-500 dark:text-gray-400">
+          <div className="p-2 text-sm text-base-content">
             We could&apos;nt find a video for this topic. Please check the notes.
           </div>
         )}

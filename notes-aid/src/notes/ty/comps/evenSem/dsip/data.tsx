@@ -470,14 +470,37 @@ const dsip = {
            {
             title:"Hough Transform Example - Part 3",
             url:"https://www.youtube.com/embed/fiDDn_F9U74?si=q95VgLRIrBcFA2DX"
+           },
+           {
+            title:"Region Growing Algorithm",
+            url:"https://www.youtube.com/embed/ZAXjI9CFvDU?si=Apae6tE2Cu3kPuXY"
+           },
+           {
+            title:"Region Growing Algorithm - Part 2",
+            url:"https://www.youtube.com/embed/mn3nD3bEnO0?si=XZemekoLNU1gHTkL"
+           },
+           {
+            title:"Region Splitting and Merging Algorithm",
+            url:"https://www.youtube.com/embed/0kUGpgIrZIw?si=0ifmXpOL4rydBlJ_"
            }
           ],
         },
         {
           title: "4.2 Boundary descriptors: Signature, Chain code, Shape number, Moments",
-          description: "Basic theoretical concepts",
+          description: "Theoretical concepts- Short notes can be asked in exam ",
           videos: [
-            
+            {
+              title:"Signature (Watch on Youtube)",
+              url:"https://www.youtube.com/embed/QvR1zrogGBY?si=F9gVotT78P5hEbjK"
+            },
+            {
+              title:"Chain Code and Normalize Chain Code (Shape Number)",
+              url:"https://www.youtube.com/embed/NPyBHVmlyDY?si=QZ_3v3HQxGBSiyvy"
+             },
+             {
+              title:"Image Moments",
+              url:"https://www.youtube.com/embed/fiK1YBESnXU?si=et7snU4a-2Chv_B5"
+             }
           ],
         },
       ]
@@ -492,23 +515,105 @@ const dsip = {
       topics:[
         {
           title: "5.1 Morphological operations: Dilation, Erosion, Opening,Closing, Hit or Miss Transform, Boundary extraction",
-          description: "Basic theoretical concepts",
+          description: "Theoretical concepts",
           videos: [
-            
+            {
+              title:"Morphological Image Processing: Dilation, Erosion, Hit or Miss Transform",
+              url:"https://www.youtube.com/embed/bRa770kRapc?si=FaM-FWaFrc5Jyzqw"
+            },
+            {
+              title:"Dilation and Erosion - Part 2 (in Detail - May not be asked in exam)",
+              url:"https://www.youtube.com/embed/1TsoVEOOTbM?si=T6TgrVhwTHhkjKJi"
+            },
+            {
+                title:"Hit or Miss Transform Example - Part 2",
+                url:"https://www.youtube.com/embed/CNB1aMcZMsM?si=t5o_Cj1B-NfkMKKg"
+            },
+            {
+              title:"Opening and Closing",
+              url:"https://www.youtube.com/embed/C8Od0oxJzk4?si=gEEHdVNyq84R8TDC"
+            },
+            {
+              title:"Opening and Closing - Part 2",
+              url:"https://www.youtube.com/embed/H1uQMfJtbKA?si=gKiGc_O6YfhaaeZm"
+            }
           ],
         },
         {
           title: "5.2 Introduction, redundancies: coding, inter-pixel, psycho-visual, compression ratio, fidelity criteria Lossless compression techniques: Run length coding, Arithmetic coding, Huffman coding, Differential PCM",
           description: "Basic theoretical concepts",
           videos: [
-            
+            {
+              title:"Introduction to Redundancy, Types of Redundancy: Coding, Inter-pixel, Psycho-visual, Fidelity Criteria",
+              url:"https://www.youtube.com/embed/CJa_L5Ml4b8?si=0BaS5e4pqbUJwQIs"
+            },
+            {
+              title:"Types of Redundancy - Part 2",
+              url:"https://www.youtube.com/embed/Re4jhORfE3E?si=wBFhVgRA8nXQMaji"
+            },
+            {
+              title:"Compression Ratio",
+              url:"https://www.youtube.com/embed/U_r4vemDt34?si=Lzo_qHGupMByR5cF"
+            },
+            {
+              title:"Run Length Coding",
+              url:"https://www.youtube.com/embed/eqBUphYXsGk?si=VPcTFy2aO9_BVIVK"
+            },
+            {
+              title:"Run Length Coding - Part 2",
+              url:"https://www.youtube.com/embed/uqIZSfLWMk0?si=cpgFarQLvVP9_T5a"
+            },
+            {
+              title:"Arithmetic Coding",
+              url:"https://www.youtube.com/embed/G6u8bt5unZk?si=Msu9cHg1CjqHcuXR"
+            },
+            {
+              title:"Huffman Coding",
+              url:"https://www.youtube.com/embed/CKbgVHg0w1U?si=-k-JoQxqElvPvjDe"
+            },
+            {
+              title:"Huffman Coding - Part 2",
+              url:"https://www.youtube.com/embed/acEaM2W-Mfw?si=BJ6OVoOi5fBWQ_Tn"
+            },
+            {
+              title:"Huffman Coding Example - Part 3",
+              url:"https://www.youtube.com/embed/vc_ZvsHq6cM?si=0Dr6RZMICRj6_fNP"
+            },
+            {
+              title:"Differential Pulse Code Modulation (DPCM)- Learn only theory",
+              url:"https://www.youtube.com/embed/UTsZ0_Q4lzI?si=5KKgF0lb2zfSDvdH"
+            },
+           
           ],
         },
         {
           title: "5.3 Lossy Compression techniques: Improved grey scale quantization, Vector quantization, Transform coding, JPEG.",
           description: "Basic theoretical concepts",
           videos: [
-            
+            {
+              title:"Improved Grey Scale Quantization",
+              url:"https://www.youtube.com/embed/8sjEzsnBa3U?si=HTjWmELjnlwxjNSw"
+            },
+            {
+              title:"Vector Quantization",
+              url:"https://www.youtube.com/embed/zCGfMLDMVgk?si=Vu8fL9ll04W-h0Sy"
+            },
+            {
+              title:"Vector Quantization - Part 2",
+              url:"https://www.youtube.com/embed/qzhIXfxMDpM?si=nleGcoAIdBYvaWsU"
+            },
+            {
+              title:"Transform Coding",
+              url:"https://www.youtube.com/embed/NpNemKZcODM?si=-446-wTYYqgxQPcM"
+            },
+            {
+              title:"JPEG Compression",
+              url:"https://www.youtube.com/embed/2DfPyaddl-E?si=YGXjyivwIKc1KFUs"
+            },
+            {
+              title:"JPEG Compression",
+              url:"https://www.youtube.com/embed/42dWHkYh5Wo?si=kqiMPDXjdP7ZmCHd"
+            }
           ],
         },
       ]
