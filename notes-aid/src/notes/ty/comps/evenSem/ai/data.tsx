@@ -248,6 +248,10 @@ const ai = {
           description: "Algorithm based concepts - Important for Exam ⭐",
           videos: [
             {
+              title:"What is Heuristic Function?",
+              url:"https://www.youtube.com/embed/5F9YzkpnaRw?si=p5MOLLeHgIY3-UBb"
+            },
+            {
               title: "Heurestic Function",
               url: "https://www.youtube.com/embed/E48Hn3nfCqg?si=sXU_L8vKSRSoc9IY",
             },
@@ -307,11 +311,11 @@ const ai = {
             },
             {
               title: "Genetic Algorithm",
-              url: "https://www.youtube.com/embed/WueuYdDqUt0?si=_5h3AIs6BMIt6-a2",
+              url: "https://www.youtube.com/embed/96-u9s6D16k?si=HvVD_Waawhc8Ummj",
             },
             {
-              title: "Genetric Algorithm - Solved Numerical",
-              url: "https://www.youtube.com/embed/Dj1AZ0T-m-I?si=0j0oFGbu7ZT7EtKL",
+              title: "Genetric Algorithm - Part 2",
+              url: "https://www.youtube.com/embed/Fgq3xDhRBv8?si=xl6E3t427zWO26vz",
             },
             {
               title: "Crossover and Mutation",
@@ -355,6 +359,10 @@ const ai = {
             {
               title:"Introduction to Game Playing",
               url:"https://www.youtube.com/embed/FFzdXJ49KAI?si=WkGIgVSgMctVkq8S"
+            },
+            {
+              title:"Alpha-Beta Pruning - Solved Numerical",
+              url:"https://www.youtube.com/embed/9D1hVGumxCo?si=RGpY_tT-NxvRlASf"
             },
             {
               title:"Alpha-Beta Pruning",
@@ -490,6 +498,14 @@ const ai = {
               title: "Resolution : FOL to CNF , Resolution Tree",
               url: "https://www.youtube.com/embed/7g6cB3kIHJI?si=yjpEr7fKxLm5pGEX",
             },
+            {
+              title:"Resolution - Example",
+              url:"https://www.youtube.com/embed/nEEyPdYxBFY?si=NiXCrzctHXw3qP_8"
+            },
+            {
+              title:"Resolution - Example - Part 2",
+              url:"https://www.youtube.com/embed/bdkTWgPbygg?si=aXoFjJlZHIeX80Vu"
+            }
           ],
         },
         {
@@ -504,6 +520,45 @@ const ai = {
               title: "Backward Chaining",
               url: "https://www.youtube.com/embed/2UJV1nmjNGw?si=nOUkn7Sjw6wBrxZe",
             },
+          ],
+        },
+        {
+          title: "Bayesian Networks",
+          description: "Numerical based concepts",
+          videos: [
+            {
+              title: "Bayesian Network with Examples",
+              url: "https://www.youtube.com/embed/DVnubVOjZtg?si=5GWHR0VLfuGE3Fdo",
+            },
+            {
+              title:"Bayesian Network - Example - Part 2",
+              url:"https://www.youtube.com/embed/xDyMuT9BliI?si=Ik8TBdkuKSTz8HGj"
+            },
+            {
+              title: "1.  Bayesian Belief Network | BBN | Solved Numerical Example | Burglar Alarm System ",
+              url: "https://www.youtube.com/embed/hEZjPZ-Ze0A"
+            },
+            {
+              title: "2.  Bayesian Belief Network | BBN | Solved Numerical Example Burglar Alarm System ",
+              url: "https://www.youtube.com/embed/iz7Kl2gcmlk"
+            },
+            {
+              title: "3. Bayesian Belief Network BBN Solved Numerical Example Battery Gauge Fuel Start Car ",
+              url: "https://www.youtube.com/embed/-h_h7pnwY8A"
+            },
+            {
+              title: "#4. Bayesian belief network Solved Example Milage Engine Air Conditioner Car Value ",
+              url: "https://www.youtube.com/embed/zLTiayj_aSI"
+            },
+            {
+              title: "#5. Bayesian belief network Solved Numerical Example | BBN Example | Machine Learning ",
+              url: "https://www.youtube.com/embed/K3QHrVb62Ow"
+            },
+            {
+              title: "#6. Bayesian Belief Network | BBN | Heart Disease Problem | BBN Solved Example  ",
+              url: "https://www.youtube.com/embed/bdWZNoV4Lkc"
+            }
+            
           ],
         },
       ],

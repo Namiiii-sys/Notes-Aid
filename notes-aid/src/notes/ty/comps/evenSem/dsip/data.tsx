@@ -325,7 +325,7 @@ const dsip = {
         {
           title: "Module 3 PPT",
           url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/rohit_sd_somaiya_edu/Ed7kDlN4_gpLjNi5_wqwGV8BqaLszTjVJvG7I8t68N7T8A?e=BraFhT",
-        },
+        },  
       ],
       topics: [
         {
@@ -397,6 +397,10 @@ const dsip = {
             {
               title: "Principal Component Analysis (PCA) (Very less chances of coming in exam) ",
               url: "https://www.youtube.com/embed/sjCCdY3ySd0?si=1GnNhADQAUR97oc7",
+            },
+            {
+              title:"KL/ PCA - Solved Numerical",
+              url:"https://www.youtube.com/embed/_ACZKvIeMnA?si=BIV_kzT8JAYrejaf"
             },
             {
               title: "Introduction to Wavelet Transform (from 6:02)",
@@ -611,7 +615,7 @@ const dsip = {
               url:"https://www.youtube.com/embed/2DfPyaddl-E?si=YGXjyivwIKc1KFUs"
             },
             {
-              title:"JPEG Compression",
+              title:"JPEG Compression - Part 2",
               url:"https://www.youtube.com/embed/42dWHkYh5Wo?si=kqiMPDXjdP7ZmCHd"
             }
           ],
