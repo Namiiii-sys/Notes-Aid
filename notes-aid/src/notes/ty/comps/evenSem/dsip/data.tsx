@@ -476,6 +476,10 @@ const dsip = {
             url:"https://www.youtube.com/embed/fiDDn_F9U74?si=q95VgLRIrBcFA2DX"
            },
            {
+             title:"Principle of Thresholding",
+             url:"https://www.youtube.com/embed/eyTFqyM03Lk?si=a1XUi6rbMaMdL5SR"
+           },
+           {
             title:"Region Growing Algorithm",
             url:"https://www.youtube.com/embed/ZAXjI9CFvDU?si=Apae6tE2Cu3kPuXY"
            },
