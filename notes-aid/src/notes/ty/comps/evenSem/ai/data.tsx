@@ -1,5 +1,6 @@
 import { Brain } from "lucide-react";
 // import { title } from "process";
+// import { title } from "process";
 
 const ai = {
   name: "Artificial Intelligence",
@@ -23,7 +24,7 @@ const ai = {
         {
           title: "Rohit's Short Notes",
           url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/rohit_sd_somaiya_edu/EaBHJEe0vLdEpvPeWXlEWykBBfJLYlzDRDFC9LBamBxyhA?e=hE1toc"
-        }
+        },
       ],
       topics: [
         {
@@ -103,7 +104,7 @@ const ai = {
         {
           title: "Rohit's Short Notes",
           url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/rohit_sd_somaiya_edu/ERtPjG8zYZdGqK7bCufpAmsBJ1ewnwCpZcY_uzlq6LI0Jw?e=5rd6WJ"
-        }
+        },
       ],
       topics: [
         {
@@ -209,7 +210,12 @@ const ai = {
         {
           title: "Rohit's Short Notes",
           url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/rohit_sd_somaiya_edu/EU6eqmo06HBLs3lOYGxKPn4BI_InkmY5MM-3SltxRiSDCA?e=WXO2rA"
-        }
+        },
+        {
+          title: "Yashank's Notes",
+          url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/rohit_sd_somaiya_edu/Ee14Yf_NDStJp9JmjPbVjw0B6y62Xk_lt5Ty9lLmfvdq2w?e=wIndMT"
+        },
+
       ],
       topics: [
         {
@@ -406,7 +412,7 @@ const ai = {
         {
           title: "Rohit's Short Notes",
           url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/rohit_sd_somaiya_edu/ERoRFnelindOn3wxL3orT2QBsr0SwjBY6apUvBYZ7JxFZQ?e=GFQjwo"
-        }
+        },
       ],
       topics: [
         {
@@ -589,7 +595,12 @@ const ai = {
         {
           title: "Rohit's Short Notes",
           url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/rohit_sd_somaiya_edu/EXXd4iaZLqdLiMMx_5A-rz4B8KSJOXM_KgNOGFGT4s8jdg?e=Hk6MdJ"
-        }
+        },
+        {
+          title: "Yashank's Notes",
+          url: "https://somaiya0-my.sharepoint.com/:b:/g/personal/rohit_sd_somaiya_edu/EYngOIrrxcdNg4Y1EAJs5roBF6fRKQ_vBa2bSLCRxnmNhA?e=t8rP1C"
+        },
+        
       ],
       topics: [
         {
