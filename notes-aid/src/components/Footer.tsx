@@ -29,11 +29,11 @@ const Footer = () => {
             <Rocket className="w-4 h-4  animate-bounce" />
             <span>Engineered by</span>
             <Link
-              href="https://github.com/yashankkothari"
+              href="https://github.com/MinavKaria"
               target="_blank"
               className="underline hover:text-primary"
             >
-              Yashank
+              Minav
             </Link>
             ,
             <Link
@@ -45,11 +45,11 @@ const Footer = () => {
             </Link>
             &amp;
             <Link
-              href="https://github.com/aarushsaboo"
+              href="https://github.com/yashankkothari"
               target="_blank"
               className="underline hover:text-primary"
             >
-              Aarush
+              Yashank
             </Link>
           </div>
         </div>
